@@ -1,5 +1,4 @@
-# JAVASWING
-GUI_JAVA
+
 package GUI1;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
